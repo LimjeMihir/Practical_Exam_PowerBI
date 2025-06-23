@@ -27,6 +27,10 @@ The data model includes the following main tables:
    - `Student ID`  
    - `Date`  
    - `Attendance Status` (Present/Absent)
+  
+4. **Behavior**  
+   - `Behavior type`  
+   - `Behavior count per type`
 
 ---
 
