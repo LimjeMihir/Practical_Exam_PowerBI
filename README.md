@@ -6,7 +6,7 @@
 ## 📌 Objective  
 The primary goal of this Power BI dashboard is to provide a comprehensive visual overview of student academic performance and attendance. It enables educational institutions and administrators to monitor key performance indicators (KPIs), identify underperforming students, and take data-driven decisions to improve student outcomes.
 
---<img src="Practical_exam_Dashboard1.png" height=650px width="1250px">-
+--<img src="Practical_exam_Dashboard1.png" height=600px width="1250px">-
 
 ## 🧩 Data Model Overview  
 The data model includes the following main tables:
