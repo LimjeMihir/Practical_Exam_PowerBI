@@ -98,6 +98,6 @@ The data model includes the following main tables:
 ---
 
 ## 📝 Author  
-**Prepared by:** [Your Name or Team Name]  
+**Prepared by:** Mihir Limje  
 **Date:** June 2025  
 **Version:** 1.0
